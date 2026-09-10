@@ -11,9 +11,11 @@ int main()
 
     AddTask();
 
-	EditTask();
+	  EditTask();
 
-	system("pause>0");
+    DeleteTask();
+
+	  system("pause>0");
 
     return 0;
 }
